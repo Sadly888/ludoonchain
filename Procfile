@@ -1,2 +1,1 @@
-worker: python program.py
-web: python -m http.server $PORT
+web: python program.py
